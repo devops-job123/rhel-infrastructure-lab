@@ -52,4 +52,4 @@ SMB file sharing for Windows compatibility.
 ---
 
 ## Author
-Your Name
+Amer Al Hasheesh
