@@ -1,0 +1,16 @@
+                   RHEL Infrastructure Lab
+
+        +--------------------------------------+
+        |            Server01                  |
+        |--------------------------------------|
+        | DNS (BIND)                          |
+        | DHCP                                |
+        | NFS                                 |
+        | Samba                               |
+        | User Management                     |
+        +-----------------+--------------------+
+                          |
+        -----------------------------------------
+        |                                       |
+   Client01                               Client02
+   (DHCP + DNS + NFS + SMB)             (DHCP + DNS + NFS + SMB)
